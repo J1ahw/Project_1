@@ -1,0 +1,1 @@
+Some counties got 2022 and 2021. So I create two version. No need to run cleaning code. Download cleaned data directly. Enjoy. Well, if you want to run it. Go raw data file download it and careful 'csvpath' when you run cleaning code.
