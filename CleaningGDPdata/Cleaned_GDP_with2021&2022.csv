@@ -1,0 +1,321 @@
+,Country,Year,Unit,Value
+0,Australia,2016,Australian Dollar,1758828.0
+1,Australia,2017,Australian Dollar,1842635.0
+2,Australia,2018,Australian Dollar,1946613.0
+3,Australia,2019,Australian Dollar,1979471.0
+4,Australia,2020,Australian Dollar,2080419.0
+5,Australia,2021,Australian Dollar,2309051.0
+6,Austria,2016,Euro,357607.95
+7,Austria,2017,Euro,369361.87
+8,Austria,2018,Euro,385274.09
+9,Austria,2019,Euro,397169.54
+10,Austria,2020,Euro,381042.48
+11,Austria,2021,Euro,406148.67
+12,Belgium,2016,Euro,430085.3
+13,Belgium,2017,Euro,445050.1
+14,Belgium,2018,Euro,460050.8
+15,Belgium,2019,Euro,478645.0
+16,Belgium,2020,Euro,459826.3
+17,Belgium,2021,Euro,502311.6
+18,Canada,2016,Canadian Dollar,2025533.0
+19,Canada,2017,Canadian Dollar,2140641.0
+20,Canada,2018,Canadian Dollar,2235672.0
+21,Canada,2019,Canadian Dollar,2313563.0
+22,Canada,2020,Canadian Dollar,2209681.0
+23,Canada,2021,Canadian Dollar,2509618.0
+24,Czech Republic,2016,Czech Koruna,4796873.0
+25,Czech Republic,2017,Czech Koruna,5110743.0
+26,Czech Republic,2018,Czech Koruna,5410761.0
+27,Czech Republic,2019,Czech Koruna,5791498.0
+28,Czech Republic,2020,Czech Koruna,5709131.0
+29,Czech Republic,2021,Czech Koruna,6108717.0
+30,Denmark,2016,Danish Krone,2107808.218
+31,Denmark,2017,Danish Krone,2192960.002
+32,Denmark,2018,Danish Krone,2253316.249
+33,Denmark,2019,Danish Krone,2310954.835
+34,Denmark,2020,Danish Krone,2323919.331
+35,Denmark,2021,Danish Krone,2504177.717
+36,Finland,2016,Euro,217518.0
+37,Finland,2017,Euro,226301.0
+38,Finland,2018,Euro,233462.0
+39,Finland,2019,Euro,239858.0
+40,Finland,2020,Euro,238038.0
+41,Finland,2021,Euro,251520.0
+42,France,2016,Euro,2234129.0
+43,France,2017,Euro,2297242.0
+44,France,2018,Euro,2363306.0
+45,France,2019,Euro,2437635.0
+46,France,2020,Euro,2310469.0
+47,France,2021,Euro,2500870.0
+48,Germany,2016,Euro,3134740.0
+49,Germany,2017,Euro,3267160.0
+50,Germany,2018,Euro,3365450.0
+51,Germany,2019,Euro,3473260.0
+52,Germany,2020,Euro,3405430.0
+53,Germany,2021,Euro,3601750.0
+54,Greece,2016,Euro,174494.176
+55,Greece,2017,Euro,176903.369
+56,Greece,2018,Euro,179557.676
+57,Greece,2019,Euro,183351.218
+58,Greece,2020,Euro,165405.918
+59,Greece,2021,Euro,181674.606
+60,Korea,2016,Won,1740779600.0
+61,Korea,2017,Won,1835698200.0
+62,Korea,2018,Won,1898192600.0
+63,Korea,2019,Won,1924498100.0
+64,Korea,2020,Won,1940726200.0
+65,Korea,2021,Won,2071658000.0
+66,New Zealand,2016,New Zealand Dollar,271271.0
+67,New Zealand,2017,New Zealand Dollar,290804.0
+68,New Zealand,2018,New Zealand Dollar,306327.0
+69,New Zealand,2019,New Zealand Dollar,323967.0
+70,New Zealand,2020,New Zealand Dollar,326507.0
+71,Poland,2016,Zloty,1853205.0
+72,Poland,2017,Zloty,1982794.0
+73,Poland,2018,Zloty,2126506.0
+74,Poland,2019,Zloty,2288492.0
+75,Poland,2020,Zloty,2337672.0
+76,Poland,2021,Zloty,2623948.0
+77,Spain,2016,Euro,1114420.0
+78,Spain,2017,Euro,1162492.0
+79,Spain,2018,Euro,1203859.0
+80,Spain,2019,Euro,1245513.0
+81,Spain,2020,Euro,1117989.0
+82,Spain,2021,Euro,1206842.0
+83,Switzerland,2016,Swiss Franc,677848.331
+84,Switzerland,2017,Swiss Franc,684558.467
+85,Switzerland,2018,Swiss Franc,709521.556
+86,Switzerland,2019,Swiss Franc,716878.59
+87,Switzerland,2020,Swiss Franc,694661.736
+88,Switzerland,2021,Swiss Franc,731661.67
+89,United Kingdom,2016,Pound Sterling,1999461.0
+90,United Kingdom,2017,Pound Sterling,2085008.0
+91,United Kingdom,2018,Pound Sterling,2157410.0
+92,United Kingdom,2019,Pound Sterling,2238348.0
+93,United Kingdom,2020,Pound Sterling,2109594.0
+94,United Kingdom,2021,Pound Sterling,2270246.0
+95,Colombia,2016,Colombian Peso,863782000.0
+96,Colombia,2017,Colombian Peso,920471000.0
+97,Colombia,2018,Colombian Peso,987791000.0
+98,Colombia,2019,Colombian Peso,1060068000.0
+99,Colombia,2020,Colombian Peso,998719000.0
+100,Estonia,2016,Euro,21747.91
+101,Estonia,2017,Euro,23833.614
+102,Estonia,2018,Euro,25932.176
+103,Estonia,2019,Euro,27764.725
+104,Estonia,2020,Euro,27464.982
+105,Estonia,2021,Euro,31444.913
+106,Ireland,2016,Euro,270205.336
+107,Ireland,2017,Euro,297763.216
+108,Ireland,2018,Euro,326631.278
+109,Ireland,2019,Euro,356704.595
+110,Ireland,2020,Euro,372836.397
+111,Ireland,2021,Euro,426283.436
+112,Chile,2016,Chilean Peso,168764690.0
+113,Chile,2017,Chilean Peso,179314910.0
+114,Chile,2018,Chilean Peso,189434870.0
+115,Chile,2019,Chilean Peso,195816480.0
+116,Chile,2020,Chilean Peso,200343720.0
+117,Chile,2021,Chilean Peso,240633270.0
+118,Sweden,2016,Swedish Krona,4415031.0
+119,Sweden,2017,Swedish Krona,4625094.0
+120,Sweden,2018,Swedish Krona,4828306.0
+121,Sweden,2019,Swedish Krona,5049619.0
+122,Sweden,2020,Swedish Krona,5038538.0
+123,Sweden,2021,Swedish Krona,5449533.0
+124,Portugal,2016,Euro,186489.811
+125,Portugal,2017,Euro,195947.21
+126,Portugal,2018,Euro,205184.124
+127,Portugal,2019,Euro,214374.62
+128,Portugal,2020,Euro,200518.859
+129,Portugal,2021,Euro,214470.702
+130,India,2016,Indian Rupee,153916690.149
+131,India,2017,Indian Rupee,170900423.611
+132,India,2018,Indian Rupee,188869569.076
+133,India,2019,Indian Rupee,203510128.945
+134,South Africa,2016,Rand,4359060.78
+135,South Africa,2017,Rand,4653578.928
+136,South Africa,2018,Rand,4873899.046
+137,South Africa,2019,Rand,5077625.041
+138,South Africa,2020,Rand,4973974.572
+139,Russia,2016,Russian Ruble,85616083.8
+140,Russia,2017,Russian Ruble,91843154.2
+141,Russia,2018,Russian Ruble,103861651.1
+142,Russia,2019,Russian Ruble,109241536.4
+143,Russia,2020,Russian Ruble,106967459.4
+144,Iceland,2016,Iceland Krona,2512054.819
+145,Iceland,2017,Iceland Krona,2641959.405
+146,Iceland,2018,Iceland Krona,2844409.659
+147,Iceland,2019,Iceland Krona,3043848.282
+148,Iceland,2020,Iceland Krona,2937929.996
+149,Iceland,2021,Iceland Krona,3251222.034
+150,Luxembourg,2016,Euro,56208.068
+151,Luxembourg,2017,Euro,58168.784
+152,Luxembourg,2018,Euro,60121.164
+153,Luxembourg,2019,Euro,62373.588
+154,Luxembourg,2020,Euro,64780.987
+155,Luxembourg,2021,Euro,72295.028
+156,Japan,2016,Yen,544364600.0
+157,Japan,2017,Yen,553073000.0
+158,Japan,2018,Yen,556630100.0
+159,Japan,2019,Yen,557910800.0
+160,Japan,2020,Yen,539082400.0
+161,Japan,2021,Yen,549379300.0
+162,Netherlands,2016,Euro,708337.0
+163,Netherlands,2017,Euro,738146.0
+164,Netherlands,2018,Euro,773987.0
+165,Netherlands,2019,Euro,813055.0
+166,Netherlands,2020,Euro,796530.0
+167,Netherlands,2021,Euro,856356.0
+168,Slovak Republic,2016,Euro,81265.197
+169,Slovak Republic,2017,Euro,84669.877
+170,Slovak Republic,2018,Euro,89874.693
+171,Slovak Republic,2019,Euro,94437.483
+172,Slovak Republic,2020,Euro,93413.756
+173,Slovak Republic,2021,Euro,98522.981
+174,Mexico,2016,Mexican Peso,20129057.371
+175,Mexico,2017,Mexican Peso,21934167.572
+176,Mexico,2018,Mexican Peso,23524390.183
+177,Mexico,2019,Mexican Peso,24445735.084
+178,Mexico,2020,Mexican Peso,23430377.458
+179,Mexico,2021,Mexican Peso,25803508.117
+180,Norway,2016,Norwegian Krone,3098148.0
+181,Norway,2017,Norwegian Krone,3295382.0
+182,Norway,2018,Norwegian Krone,3553900.0
+183,Norway,2019,Norwegian Krone,3563484.0
+184,Norway,2020,Norwegian Krone,3410399.0
+185,Norway,2021,Norwegian Krone,4141882.0
+186,Slovenia,2016,Euro,40443.217
+187,Slovenia,2017,Euro,43011.339
+188,Slovenia,2018,Euro,45876.35
+189,Slovenia,2019,Euro,48533.118
+190,Slovenia,2020,Euro,47020.647
+191,Slovenia,2021,Euro,52208.068
+192,Hungary,2016,Forint,36206666.0
+193,Hungary,2017,Forint,39274757.0
+194,Hungary,2018,Forint,43386436.0
+195,Hungary,2019,Forint,47664925.0
+196,Hungary,2020,Forint,48411546.0
+197,Hungary,2021,Forint,55125561.0
+198,Türkiye,2016,Turkish Lira,2626559.71
+199,Türkiye,2017,Turkish Lira,3133704.267
+200,Türkiye,2018,Turkish Lira,3758773.727
+201,Türkiye,2019,Turkish Lira,4311732.766
+202,Türkiye,2020,Turkish Lira,5048220.067
+203,Türkiye,2021,Turkish Lira,7248788.983
+204,China (People's Republic of),2016,Yuan Renminbi,74639510.0
+205,China (People's Republic of),2017,Yuan Renminbi,83203600.0
+206,China (People's Republic of),2018,Yuan Renminbi,91928110.0
+207,China (People's Republic of),2019,Yuan Renminbi,98651500.0
+208,China (People's Republic of),2020,Yuan Renminbi,101356700.0
+209,China (People's Republic of),2021,Yuan Renminbi,114367000.0
+210,Italy,2016,Euro,1695786.8
+211,Italy,2017,Euro,1736592.8
+212,Italy,2018,Euro,1771391.2
+213,Italy,2019,Euro,1796648.5
+214,Italy,2020,Euro,1660621.4
+215,Italy,2021,Euro,1782050.4
+216,Indonesia,2016,Rupiah,12401728500.0
+217,Indonesia,2017,Rupiah,13589825700.0
+218,Indonesia,2018,Rupiah,14838756000.0
+219,Indonesia,2019,Rupiah,15832657200.0
+220,Indonesia,2020,Rupiah,15443353200.0
+221,Indonesia,2021,Rupiah,16976690800.0
+222,Israel,2016,New Israeli Sheqel,1237057.24
+223,Israel,2017,New Israeli Sheqel,1289524.316
+224,Israel,2018,New Israeli Sheqel,1352532.822
+225,Israel,2019,New Israeli Sheqel,1434617.152
+226,Israel,2020,New Israeli Sheqel,1422635.043
+227,Israel,2021,New Israeli Sheqel,1578037.629
+228,Latvia,2016,Euro,25371.324
+229,Latvia,2017,Euro,26984.433
+230,Latvia,2018,Euro,29153.556
+231,Latvia,2019,Euro,30678.645
+232,Latvia,2020,Euro,30294.045
+233,Latvia,2021,Euro,33695.902
+234,United States,2016,US Dollar,18695110.842
+235,United States,2017,US Dollar,19477336.549
+236,United States,2018,US Dollar,20533057.312
+237,United States,2019,US Dollar,21380976.119
+238,United States,2020,US Dollar,21060473.613
+239,United States,2021,US Dollar,23315080.56
+240,Brazil,2016,Brazilian Real,6269328.0
+241,Brazil,2017,Brazilian Real,6585479.0
+242,Brazil,2018,Brazilian Real,7004141.0
+243,Brazil,2019,Brazilian Real,7389131.0
+244,Lithuania,2016,Euro,38889.862
+245,Lithuania,2017,Euro,42276.297
+246,Lithuania,2018,Euro,45515.226
+247,Lithuania,2019,Euro,48908.224
+248,Lithuania,2020,Euro,49769.582
+249,Lithuania,2021,Euro,56179.075
+250,Euro area (19 countries),2016,Euro,10817293.898
+251,Euro area (19 countries),2017,Euro,11224152.949
+252,Euro area (19 countries),2018,Euro,11599252.433
+253,Euro area (19 countries),2019,Euro,11986264.406
+254,Euro area (19 countries),2020,Euro,11456510.283
+255,Euro area (19 countries),2021,Euro,12313624.953
+256,Argentina,2016,Argentine Peso,8228159.557
+257,Argentina,2017,Argentine Peso,10660228.495
+258,Argentina,2018,Argentine Peso,14744810.677
+259,Argentina,2019,Argentine Peso,21802256.302
+260,Argentina,2020,Argentine Peso,27481439.973
+261,Argentina,2021,Argentine Peso,46687235.68
+262,Costa Rica,2016,Costa Rican Colon,32056288.212
+263,Costa Rica,2017,Costa Rican Colon,34343647.498
+264,Costa Rica,2018,Costa Rican Colon,36014718.708
+265,Costa Rica,2019,Costa Rican Colon,37832149.784
+266,Costa Rica,2020,Costa Rican Colon,36495246.082
+267,Costa Rica,2021,Costa Rican Colon,40112924.791
+268,Cyprus,2016,Euro,18929.341
+269,Cyprus,2017,Euro,20245.262
+270,Cyprus,2018,Euro,21612.598
+271,Cyprus,2019,Euro,23009.941
+272,Cyprus,2020,Euro,21617.93
+273,Cyprus,2021,Euro,23352.8
+274,Bulgaria,2016,Bulgarian Lev,95390.491
+275,Bulgaria,2017,Bulgarian Lev,102740.641
+276,Bulgaria,2018,Bulgarian Lev,109964.191
+277,Bulgaria,2019,Bulgarian Lev,120395.232
+278,Bulgaria,2020,Bulgarian Lev,119951.087
+279,Bulgaria,2021,Bulgarian Lev,132744.283
+280,Croatia,2016,Euro,47331.188
+281,Croatia,2017,Euro,49516.169
+282,Croatia,2018,Euro,51932.977
+283,Croatia,2019,Euro,54783.979
+284,Croatia,2020,Euro,50451.003
+285,Croatia,2021,Euro,58206.923
+286,Romania,2016,Romanian Leu,763652.5
+287,Romania,2017,Romanian Leu,857895.7
+288,Romania,2018,Romanian Leu,951728.5
+289,Romania,2019,Romanian Leu,1058973.2
+290,Romania,2020,Romanian Leu,1058926.1
+291,Romania,2021,Romanian Leu,1181917.9
+292,Malta,2016,Euro,10541.13
+293,Malta,2017,Euro,11940.985
+294,Malta,2018,Euro,12954.812
+295,Malta,2019,Euro,14047.085
+296,Malta,2020,Euro,13066.004
+297,Malta,2021,Euro,14684.769
+298,Saudi Arabia,2016,Saudi Riyal,2418508.28
+299,Saudi Arabia,2017,Saudi Riyal,2582197.979
+300,Saudi Arabia,2018,Saudi Riyal,3062170.029
+301,Saudi Arabia,2019,Saudi Riyal,3013560.993
+302,Saudi Arabia,2020,Saudi Riyal,2637628.824
+303,Saudi Arabia,2021,Saudi Riyal,3125779.637
+304,European Union – 27 countries (from 01/02/2020),2016,Euro,12548705.733
+305,European Union – 27 countries (from 01/02/2020),2017,Euro,13074832.956
+306,European Union – 27 countries (from 01/02/2020),2018,Euro,13533327.242
+307,European Union – 27 countries (from 01/02/2020),2019,Euro,14018685.877
+308,European Union – 27 countries (from 01/02/2020),2020,Euro,13461155.914
+309,European Union – 27 countries (from 01/02/2020),2021,Euro,14524808.126
+310,Cameroon,2016,CFA Franc - BEAC,20038566.0
+311,Cameroon,2017,CFA Franc - BEAC,20960865.0
+312,Cameroon,2018,CFA Franc - BEAC,22203329.0
+313,Cameroon,2019,CFA Franc - BEAC,23243662.0
+314,Cameroon,2020,CFA Franc - BEAC,23486470.0
+315,Senegal,2016,CFA Franc - BCEAO,11283396.0
+316,Senegal,2017,CFA Franc - BCEAO,12191796.0
+317,Senegal,2018,CFA Franc - BCEAO,12840090.0
+318,Senegal,2019,CFA Franc - BCEAO,13712659.0
+319,Senegal,2020,CFA Franc - BCEAO,14100966.0
