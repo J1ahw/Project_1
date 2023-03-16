@@ -1,6 +1,6 @@
-# Project_1\
+# Project_1
 UOB Bootcampus Week8 Group Project.\
-By Hanwen, Bhav and Sana.\
+By Hanwen, Bhav and Sana.
 # Hanwen Part
 Collecting data from Nasdaq and we get exchange rate by API in order to make all currency same. Get dataset1.\
 Clean data from WWW.Eric_Grose.COM. Get dataset2.\
