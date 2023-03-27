@@ -10,5 +10,5 @@ Generate summary of dataset2. Base on 'Country Size' and 'Continents'.\
 Plot linar Regression with Population(millions) and nominal GDP(100 millions).\
 The r-value is: 0.4068.\
 Create maps of 'World map of Population', 'World map of Total GDP' and 'World map of GDP PER PERSON'.\
-Plot mutiple line chant of some countries for 2016 to 2020 base on dataset1./
+Plot mutiple line chant of some countries for 2016 to 2020 base on dataset1.\
 Pie charts completed with the help of combining matplotlib tools.
