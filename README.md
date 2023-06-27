@@ -8,11 +8,11 @@ By Hanwen, Bhav and Sana.
 * Clean data from www.Eric_Grose.com. Get dataset2.
 ![3bb726c6dd838405c295026d1b992f8](https://github.com/J1ahw/Project_1/assets/123384453/fbd81d5c-8e55-4041-af10-de56174df50d)
 
-* Use API to collect lattitude, Longtitude and continents information of these countries. And merge with dataset2.
+* Use API to collect lattitude, Longtitude and continents information of these countries. 
+* Merge with dataset2.
+* Cut dataset2 into four bins 'Country Size'.
 ![47023031f1fc54af3e669528daf3d42](https://github.com/J1ahw/Project_1/assets/123384453/ff342e06-e9c4-404b-bd2a-91ccad8d5024)
 
-
-* Cut dataset2 into four bins 'Country Size'.
 ![2235bf8f8134c9e06b5220df7edd3c3](https://github.com/J1ahw/Project_1/assets/123384453/fbd4d531-b360-4290-8f22-ecfb22c5b1c4)
 
 * Plot mutiple line chant of some countries for 2016 to 2020 base on dataset1.
@@ -21,7 +21,7 @@ By Hanwen, Bhav and Sana.
 * Generate summary of dataset2. Base on 'Country Size' and 'Continents'.
 ![9f73db07d03724f1c0c58ef01bf1708](https://github.com/J1ahw/Project_1/assets/123384453/7587ce17-1514-4b04-a112-c17b04dd0963)
 
-* Create maps of 'World map of Population', 'World map of Total GDP' and 'World map of GDP PER PERSON'.
+* Create maps of 'World map of Total GDP' and 'World map of GDP PER PERSON'.
 ![0ab35493201dc52fce3933221beaaab](https://github.com/J1ahw/Project_1/assets/123384453/39b33865-3ca3-4184-b993-a350405fc278)
 
 * Plot linar Regression with Population(millions) and nominal GDP(100 millions). The r-value is: 0.4068.
