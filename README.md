@@ -13,8 +13,6 @@ By Hanwen, Bhav and Sana.
 * Cut dataset2 into four bins 'Country Size'.
 ![47023031f1fc54af3e669528daf3d42](https://github.com/J1ahw/Project_1/assets/123384453/ff342e06-e9c4-404b-bd2a-91ccad8d5024)
 
-![2235bf8f8134c9e06b5220df7edd3c3](https://github.com/J1ahw/Project_1/assets/123384453/fbd4d531-b360-4290-8f22-ecfb22c5b1c4)
-
 * Plot mutiple line chant of some countries for 2016 to 2020 base on dataset1.
 ![2235bf8f8134c9e06b5220df7edd3c3](https://github.com/J1ahw/Project_1/assets/123384453/aef966ef-7f92-4a06-b730-a2b4a7006202)
 
