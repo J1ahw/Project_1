@@ -25,7 +25,19 @@ By Hanwen, Bhav and Sana.
 * Plot linar Regression with Population(millions) and nominal GDP(100 millions). The r-value is: 0.4068.
 ![fabfe6db232e7cde831da5f8d8c01bc](https://github.com/J1ahw/Project_1/assets/123384453/efc05058-c45e-4c67-853f-439fcb7a6e1f)
 
-* Pie charts completed with the help of combining matplotlib tools.
+# Dataviz with PieCharts 
+## The code performs the following tasks:
+* Reads the GDP data from the provided CSV file.
+* Selects relevant columns for analysis.
+* Groups the data by continents and calculates total GDP growth, GDP per capita, and nominal GDP for each continent.
+* Generates pie charts to visualize the results:
+    * Total GDP Growth per capita by Continent
+    * Total nominal GDP Growth by Continent
+    * Total GDP Growth by Continent
+    * Top 10 countries with high GDP growth rate
+    * The pie charts are saved in the output directory.
+
+
 ![d757e6ce80add63f922690adec8651e](https://github.com/J1ahw/Project_1/assets/123384453/13b60f99-3d9e-4ec7-9d3b-fee4ce91e453)
 ![86aefc70fe600ae75211f88aac2cf8a](https://github.com/J1ahw/Project_1/assets/123384453/41a4a6e8-595a-49c1-862b-08a797215937)
 ![9a0d24c2f8318ee1cc593b24acfcc79](https://github.com/J1ahw/Project_1/assets/123384453/72769b6c-1e11-4396-84bb-10e438a0c42b)
